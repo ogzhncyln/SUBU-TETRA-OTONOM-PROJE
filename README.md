@@ -5,7 +5,7 @@ lidarmsg.msg
 Lidardan alınan verileri aktarmak için kullanılır.
 
 robotstatusmsg.msg
-Robotun hız ivme gibi verilerini aktarmak için kullanılır.
+Robotun hız açısal hız gibi verilerini aktarmak için kullanılır.
 
 ucgenhareket.py
 Eşkenar üçgen çizen düğüm.
